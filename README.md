@@ -39,9 +39,4 @@ This project is a voice assistant application that uses Tkinter for the GUI, `Sp
 3. **Create your `intent.json` file**:
     - Create a `intent.json` file in the project directory. This file should define the intents and responses for the assistant.
 
-## Usage
 
-Run the `assistant.py` script to start the voice assistant:
-
-```bash
-python assistant.py
