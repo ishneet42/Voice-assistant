@@ -1,0 +1,145 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hey",
+        "Hello",
+        "Hi",
+        "Good day",
+        "What's up?"
+      ],
+      "responses": [
+        "Hello! Ready to get fit?",
+        "Hi there! How can I assist you with your health today?",
+        "Hey! What do you need help with in your fitness journey?"
+      ]
+    },
+    {
+      "tag": "workout_routine",
+      "patterns": [
+        "Can you suggest a workout routine?",
+        "Give me a fitness plan",
+        "I need a workout schedule",
+        "Help me with exercise routine"
+      ],
+      "responses": [
+        "Sure! Are you looking for strength training, cardio, or a mix of both?",
+        "I can create a workout plan for you. What are your fitness goals?",
+        "Let's get you fit! Do you prefer home workouts or gym workouts?"
+      ]
+    },
+    {
+      "tag": "nutrition_advice",
+      "patterns": [
+        "Can you give me nutritional advice?",
+        "I need a meal plan",
+        "Suggest me a healthy diet",
+        "Help me with my nutrition"
+      ],
+      "responses": [
+        "Of course! Are you looking for weight loss, muscle gain, or general wellness?",
+        "I can help with that. Do you have any dietary restrictions?",
+        "Let's plan your meals. What type of cuisine do you prefer?"
+      ]
+    },
+    {
+      "tag": "hydration_tips",
+      "patterns": [
+        "How much water should I drink?",
+        "Give me tips on staying hydrated",
+        "Help me with hydration",
+        "What are the benefits of drinking water?"
+      ],
+      "responses": [
+        "It's important to stay hydrated! Aim for at least 8 cups of water a day.",
+        "Staying hydrated helps with energy levels and overall health. Drink water regularly!",
+        "Remember to drink water before, during, and after your workouts."
+      ]
+    },
+    {
+      "tag": "mental_health",
+      "patterns": [
+        "Can you help with stress relief?",
+        "I need tips on mental wellness",
+        "Suggest some relaxation techniques",
+        "How can I improve my mental health?"
+      ],
+      "responses": [
+        "Absolutely! Deep breathing and mindfulness exercises can help with stress relief.",
+        "Regular physical activity and a healthy diet are great for mental wellness.",
+        "Take breaks and practice self-care. What activities help you relax?"
+      ]
+    },
+    {
+      "tag": "sleep_advice",
+      "patterns": [
+        "How can I improve my sleep?",
+        "Give me tips for better sleep",
+        "Help me with my sleep schedule",
+        "What are the benefits of good sleep?"
+      ],
+      "responses": [
+        "Ensure you have a consistent sleep schedule and a relaxing bedtime routine.",
+        "Avoid screens before bed and create a comfortable sleep environment.",
+        "Good sleep improves mood, energy, and overall health. Aim for 7-9 hours a night."
+      ]
+    },
+    {
+      "tag": "fitness_goals",
+      "patterns": [
+        "How can I set fitness goals?",
+        "Help me with setting workout goals",
+        "I need advice on fitness goals",
+        "What are realistic fitness goals?"
+      ],
+      "responses": [
+        "Set SMART goals: Specific, Measurable, Achievable, Relevant, and Time-bound.",
+        "Break your goals into smaller, manageable steps and track your progress.",
+        "Stay consistent and adjust your goals as needed. What are your main fitness objectives?"
+      ]
+    },
+    {
+      "tag": "injury_prevention",
+      "patterns": [
+        "How can I prevent injuries during workouts?",
+        "Give me tips on avoiding exercise injuries",
+        "Help me with injury prevention",
+        "What are common workout injuries?"
+      ],
+      "responses": [
+        "Warm up properly before workouts and cool down afterward.",
+        "Use correct form and technique to avoid strain and injury.",
+        "Listen to your body and don't push too hard. Rest is important for recovery."
+      ]
+    },
+    {
+      "tag": "recovery_tips",
+      "patterns": [
+        "How can I recover after a workout?",
+        "Give me recovery tips",
+        "Help me with post-workout recovery",
+        "What are the best ways to recover from exercise?"
+      ],
+      "responses": [
+        "Ensure you get enough rest and sleep for muscle recovery.",
+        "Stay hydrated and nourish your body with healthy foods.",
+        "Consider light stretching or foam rolling to reduce muscle soreness."
+      ]
+    },
+    {
+      "tag": "motivation",
+      "patterns": [
+        "How can I stay motivated to exercise?",
+        "Give me tips to stay motivated",
+        "Help me with workout motivation",
+        "What keeps people motivated to stay fit?"
+      ],
+      "responses": [
+        "Set clear, achievable goals and track your progress.",
+        "Find a workout buddy or join a fitness community for support.",
+        "Remember why you started and celebrate your milestones."
+      ]
+    }
+  ]
+}
