@@ -30,34 +30,10 @@ This project is a voice assistant application that uses Tkinter for the GUI, `Sp
 2. **Install the required packages**:
 
     ### On Windows:
-    - Download the appropriate PyAudio wheel file from [unofficial Python binaries](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio).
-    - Install the PyAudio wheel file:
-      ```bash
-      pip install PyAudio‑0.2.11‑cp39‑cp39‑win_amd64.whl
-      ```
-    - Install the other packages:
+    
+    - Install the packages:
       ```bash
       pip install SpeechRecognition pyttsx3 neuralintents
-      ```
-
-    ### On macOS:
-    - Install portaudio:
-      ```bash
-      brew install portaudio
-      ```
-    - Install the packages:
-      ```bash
-      pip install pyaudio SpeechRecognition pyttsx3 neuralintents
-      ```
-
-    ### On Linux:
-    - Install portaudio development package:
-      ```bash
-      sudo apt-get install portaudio19-dev
-      ```
-    - Install the packages:
-      ```bash
-      pip install pyaudio SpeechRecognition pyttsx3 neuralintents
       ```
 
 3. **Create your `intent.json` file**:
